@@ -10,16 +10,6 @@
 - Story, or [storey](http://en.wikipedia.org/wiki/Storey "Storey") , a floor or level of a building
 - Stories, colloquial, US American expression for [soap operas](http://en.wikipedia.org/wiki/Soap_opera "Soap opera")
 
-    
-
-## Contents
-
-- 1 Media
-- 2 Music
-- 3 People with given name Story
-- 4 Places
-- 5 See also
-
 ## [ [edit](http://en.wikipedia.org/w/index.php?title=Story&action=edit&section=1 "Edit section: Media") ] Media
 
 - [_Story_ (magazine)](http://en.wikipedia.org/wiki/Story_(magazine) "Story (magazine)") , an American literary magazine published 1931–1961 and 1989–2000
