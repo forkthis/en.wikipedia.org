@@ -16,7 +16,7 @@ The second son of [Irish Catholic](http://en.wikipedia.org/wiki/Irish_Catholic "
 
 Carroll supported [Charles Calvert](http://en.wikipedia.org/wiki/Charles_Calvert,_3rd_Baron_Baltimore "Charles Calvert, 3rd Baron Baltimore") , the colony's Catholic proprietor, in an unsuccessful effort to prevent the Protestant majority from gaining political control over Maryland. Following the overthrow of the Calvert proprietorship and the subsequent exclusion of Catholics from colonial government, Carroll turned his attention to planting, law, business, and various offices in the proprietor's remnant organization. He was the wealthiest man in the colony by the time of his death. In the last years of his life, Carroll attempted to regain some vestige of political power for Catholics in the colony, but the Protestant colonial assembly and Governor [John Hart](http://en.wikipedia.org/wiki/John_Hart_(Governor_of_Maryland) "John Hart (Governor of Maryland)") disfranchised them. His son, [Charles Carroll of Annapolis](http://en.wikipedia.org/wiki/Charles_Carroll_of_Annapolis "Charles Carroll of Annapolis") , became a wealthy planter and his grandson, [Charles Carroll of Carrollton](http://en.wikipedia.org/wiki/Charles_Carroll_of_Carrollton "Charles Carroll of Carrollton") , also wealthy, was the only Catholic signer of the [United States Declaration of Independence](http://en.wikipedia.org/wiki/United_States_Declaration_of_Independence "United States Declaration of Independence") .
 
-## [ [edit](http://en.wikipedia.org/w/index.php?title=Charles_Carroll_the_Settler&action=edit&section=1 "Edit section: Early life and emigration") ] Early life and emigration
+## Early life and emigration
 
 Carroll was the second of four sons born to Daniel Carroll of [Aghagurty](http://en.wikipedia.org/wiki/Aghagurty "Aghagurty") and [Littermurna](http://en.wikipedia.org/w/index.php?title=Littermurna&action=edit&redlink=1 "Littermurna (page does not exist)") (c. 1642–1688), a Catholic [Irishman](http://en.wikipedia.org/wiki/Ireland "Ireland") whose family lost much of their land and wealth in the [English Civil War](http://en.wikipedia.org/wiki/English_Civil_War "English Civil War") . The exact place of his birth is unclear, though it likely occurred near the small town of Aghagurty that Carroll's father took as part of his name. [1] Some of the family property near Aghagurty was obtained by a friend, Richard Grace, who made Daniel Carroll the head tenant. This action gave the family a livelihood, but the family continued to have limited means compared to their former status. [2] It is likely that Charles Carroll was fostered by the wealthier Grace, who had no son; his greater resources could provide for the child's education. [3]
 
@@ -31,7 +31,7 @@ According to Carroll family tradition, Powis told his new clerk that he believed
 
 Carroll received a commission from Calvert as the colony's [Attorney General](http://en.wikipedia.org/wiki/Attorney_General "Attorney General") on July 18, 1688, and arrived in the colony in October 1688. En route, Carroll changed his family motto from _In fide et in bello forte_ (strong in faith and war) to _Ubicumque cum libertate_ (anywhere so long as there be freedom). [7] Soon after he left, the Protestant [William of Orange](http://en.wikipedia.org/wiki/William_III_of_England "William III of England") invaded England, James II fled, and Parliament—which had been leery of James' Catholicism—recognized William and his wife [Mary](http://en.wikipedia.org/wiki/Mary_II_of_England "Mary II of England") as the new King and Queen two weeks after Carroll's arrival in Maryland. This event, known as the [Glorious Revolution](http://en.wikipedia.org/wiki/Glorious_Revolution "Glorious Revolution") , had profound implications for the future of the Maryland colony and for Carroll. [9]
 
-## [ [edit](http://en.wikipedia.org/w/index.php?title=Charles_Carroll_the_Settler&action=edit&section=2 "Edit section: Career and rise to wealth in Maryland") ] Career and rise to wealth in Maryland
+## Career and rise to wealth in Maryland
 
   ![](//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Doughoregan.jpg/220px-Doughoregan.jpg)
 
@@ -51,7 +51,7 @@ Carroll of Maryland
 
 During the rebellion, Carroll was recovering from the "hard seasoning" often experienced by immigrants whose bodies were acclimatizing to local conditions. [16] Perhaps due to illness, he chose not to flee the colony. Instead, Carroll offered support and legal advice to Calvert and became an outspoken critic of the Protestant government. He was jailed twice for insulting the new colonial leaders, including Governor [Lionel Copley](http://en.wikipedia.org/wiki/Lionel_Copley "Lionel Copley") , who accused Carroll of, "uttering several mutinous and seditious speeches". [17] Losing his position in the colonial government and the £50 annual salary it entailed was a blow to Carroll. His support for Calvert earned him various positions in the private Calvert family organization, which would benefit him throughout his life. [18]
 
-### [ [edit](http://en.wikipedia.org/w/index.php?title=Charles_Carroll_the_Settler&action=edit&section=3 "Edit section: Marriage") ] Marriage
+### Marriage
 
 Carroll improved his fortunes through a judicious marriage. In November 1689, he wed Martha Ridgely Underwood, a widow whose two former husbands had left her a small fortune. Carroll inherited a portion of this fortune after Martha's death in 1690 in childbirth. [19] The child, named Anthony in honor of Carroll's brother, also died. [20] Restricted in his law practice by the new Protestant government, Carroll used the inheritance to begin importing goods to the colony. [21] He also purchased a store in the town of [Annapolis](http://en.wikipedia.org/wiki/Annapolis "Annapolis") . [22]
 
@@ -62,13 +62,13 @@ Mary Darnall Carroll, second wife of Charles Carroll and one means to his fortun
 
 In February 1693 or 1694, Carroll remarried, this time to the 15-year-old daughter of Colonel [Henry Darnall](http://en.wikipedia.org/wiki/Henry_Darnall "Henry Darnall") , Charles Calvert's chief agent in the colony. [23] The marriage to Mary Darnall secured Carroll a tract of land in [Prince George's County](http://en.wikipedia.org/wiki/Prince_George%27s_County,_Maryland "Prince George's County, Maryland") , a position in the colony's land office with a £100 annual salary, and a lifelong alliance with Henry Darnall. This tract of land was the first part of what would become a vast empire of nearly 50,000 acres (20,000 ha) by the time of Carroll's death, worth approximately £20,000. [24] Some of these lands were worked by the 112 [slaves](http://en.wikipedia.org/wiki/Slaves "Slaves") he acquired during his lifetime. This was a very large number of slaves for a Maryland [planter](http://en.wikipedia.org/wiki/Plantations_in_the_American_South "Plantations in the American South") in the early colonial period. [25] After 1706, Carroll and his family resided on two properties, a town house built in the new colonial capital of [Annapolis](http://en.wikipedia.org/wiki/Annapolis,_Maryland "Annapolis, Maryland") and the plantation called [Dougheregan](http://en.wikipedia.org/wiki/Doughoregan_Manor "Doughoregan Manor") in modern-day [Howard County](http://en.wikipedia.org/wiki/Howard_County,_Maryland "Howard County, Maryland") . [26]
 
-### [ [edit](http://en.wikipedia.org/w/index.php?title=Charles_Carroll_the_Settler&action=edit&section=4 "Edit section: Children") ] Children
+### Children
 
 As successful as Carroll was in business, however, he and his wife experienced many personal losses throughout this period. Of the ten children born to Charles and Mary Carroll, five died within a year of their birth. Henry, their eldest son, died the year before his father in 1719, at the age of 21 or 22. Only the third child, named Charles and later known as [Charles Carroll of Annapolis](http://en.wikipedia.org/wiki/Charles_Carroll_of_Annapolis "Charles Carroll of Annapolis") , and their next son Daniel would marry and have children of their own. [20]
 
 Henry Darnall died in 1711. Carroll took over Darnall's positions as agent and receiver general for the Calvert family in the colony, both posts with significant additional salaries. Among the many uses to which he put this money was lending. After 1713, he became the largest mortgage lender in the colony, and made a number of large personal loans to other planters. [27] Carroll continued to practice law, making a small income from cases argued in the two courts where Catholics were still allowed to practice law, the [chancery](http://en.wikipedia.org/wiki/Court_of_equity "Court of equity") and [prerogative](http://en.wikipedia.org/wiki/Prerogative_court "Prerogative court") courts. [28] His speculation in mercantile enterprises also continued. Together, these made Carroll the wealthiest man in the colony by 1715, and its most prominent Catholic. [29]
 
-## [ [edit](http://en.wikipedia.org/w/index.php?title=Charles_Carroll_the_Settler&action=edit&section=5 "Edit section: Final attempt at political power and death") ] Final attempt at political power and death
+## Final attempt at political power and death
 
   ![](//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Benedict_Calvert.jpg/220px-Benedict_Calvert.jpg)
 
@@ -87,14 +87,14 @@ Carroll died only two years later, with his wealth intact but having failed to r
 
 Carroll's descendants continued to play a prominent role in the colony. His son Charles, known as Charles Carroll of Annapolis, maintained and expanded the family fortune. His grandson, [Charles Carroll of Carrollton](http://en.wikipedia.org/wiki/Charles_Carroll_of_Carrollton "Charles Carroll of Carrollton") , achieved the restoration of political rights his grandfather had desired. He became the only Catholic to sign the [Declaration of Independence](http://en.wikipedia.org/wiki/Declaration_of_Independence "Declaration of Independence") . [39]
 
-## [ [edit](http://en.wikipedia.org/w/index.php?title=Charles_Carroll_the_Settler&action=edit&section=6 "Edit section: See also") ] See also
+## See also
 
   ![Portal icon](//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/28px-P_vip.svg.png) [Biography portal](http://en.wikipedia.org/wiki/Portal:Biography "Portal:Biography")
 
 - [Carroll family](http://en.wikipedia.org/wiki/Carroll_family "Carroll family")
 - [Colonial families of Maryland](http://en.wikipedia.org/wiki/Colonial_families_of_Maryland "Colonial families of Maryland")
 
-## [ [edit](http://en.wikipedia.org/w/index.php?title=Charles_Carroll_the_Settler&action=edit&section=7 "Edit section: Notes") ] Notes
+## Notes
 
 1. ^ _**a**_ _**b**_ Hoffman, pp. 29–35
 2. ** ^** Hoffman, pp. 34–35
@@ -136,7 +136,7 @@ Carroll's descendants continued to play a prominent role in the colony. His son 
 38. ** ^** Hoffman, pp. 95–97
 39. ** ^** Radoff, p. 28 and Hoffman, p. 309
 
-## [ [edit](http://en.wikipedia.org/w/index.php?title=Charles_Carroll_the_Settler&action=edit&section=8 "Edit section: References") ] References
+## References
 
 - Andrews, Matthew Page (1929). _A History of Maryland_. Doubleday Doran & Co. 
 - Hoffman, Ronald (2000). _Princes of Ireland, Planters of Maryland: A Carroll Saga, 1500–1782_. Chapel Hill: University of North Carolina Press. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number")   [0-8078-5347-X](http://en.wikipedia.org/wiki/Special:BookSources/0-8078-5347-X "Special:BookSources/0-8078-5347-X") . 
