@@ -2,10 +2,6 @@
 
 # XDI
 
-From Wikipedia, the free encyclopedia
-
-Jump to: navigation, search
-
 **XDI** (XRI Data Interchange) is a generalized, extensible service for sharing, linking, and synchronizing structured data over the Internet and other data networks using XRI-addressable [RDF](http://en.wikipedia.org/wiki/Resource_Description_Framework "Resource Description Framework") graphs. XDI is under development by the [OASIS](http://en.wikipedia.org/wiki/OASIS_(organization) "OASIS (organization)") [XDI Technical Committee](http://www.oasis-open.org/committees/xdi) .
 
 The main features of XDI are: the ability to link and nest RDF graphs to provide context; full addressability of all nodes in the graph at any level of context; representation of XDI operations as graph statements so authorization can be built into the graph (a feature called XDI link contracts); standard serialization formats including JSON and XML; and a simple ontology language for defining shared semantics using XDI dictionary services.
@@ -18,7 +14,7 @@ This approach to a globally distributed data sharing network models the real-wor
 
 Public services based on the OASIS [XRI](http://www.oasis-open.org/committees/xri) and [XDI](http://www.oasis-open.org/committees/xdi) specifications are under development by an international non-profit organization, [XDI.ORG](http://www.xdi.org) .
 
-## [ [edit](http://en.wikipedia.org/w/index.php?title=XDI&action=edit&section=1 "Edit section: See also") ] See also
+## See also
 
 - [XRI](http://en.wikipedia.org/wiki/XRI "XRI")
 - [XRDS](http://en.wikipedia.org/wiki/XRDS "XRDS")
@@ -30,17 +26,17 @@ Public services based on the OASIS [XRI](http://www.oasis-open.org/committees/xr
 - [OpenID](http://en.wikipedia.org/wiki/OpenID "OpenID")
 - [Higgins project](http://en.wikipedia.org/wiki/Higgins_project "Higgins project")
 
-## [ [edit](http://en.wikipedia.org/w/index.php?title=XDI&action=edit&section=2 "Edit section: External links") ] External links
+## External links
 
 - [OASIS XDI TC wiki page with links to documents explaining the XDI graph model](http://wiki.oasis-open.org/xdi/XdiGraphModel)
-- [JSON serialization format](http://wiki.oasis-open.org/xdi/JsonFormat)
+- [JSON serialization format](https://wiki.oasis-open.org/xdi/JSONSerializationRules)
 - [OASIS XDI Technical Committee](http://www.oasis-open.org/committees/xdi)
 - [OASIS XRI Technical Committee](http://www.oasis-open.org/committees/xri)
 - [XDI.ORG](http://www.xdi.org)
 - [The Social Web: Creating An Open Social Network with XDI](http://journal.planetwork.net/article.php?lab=reed0704) in the [Planetwork Journal](http://journal.planetwork.net) .
 - [Virtual Rights](http://www.virtualrights.org)
 
-### [ [edit](http://en.wikipedia.org/w/index.php?title=XDI&action=edit&section=3 "Edit section: Implementations") ] Implementations
+### Implementations
 
 - [XDI reference implementation in Java](http://wiki.eclipse.org/XDI4j) (includes a number of utilities for experimenting directly with XDI, although in older serialization formats)
 
@@ -80,11 +76,8 @@ Standards of [OASIS](http://en.wikipedia.org/wiki/OASIS_(organization) "OASIS (o
 - [WSS](http://en.wikipedia.org/wiki/WS-Security "WS-Security")
 - [XACML](http://en.wikipedia.org/wiki/XACML "XACML")
 
-Retrieved from " [http://en.wikipedia.org/w/index.php?title=XDI&oldid=506388113](http://en.wikipedia.org/w/index.php?title=XDI&oldid=506388113) "
+Retrieved from " [http://en.wikipedia.org/w/index.php?title=XDI&oldid=521502274](http://en.wikipedia.org/w/index.php?title=XDI&oldid=521502274) "
 
-  [Categories](http://en.wikipedia.org/wiki/Special:Categories "Special:Categories") :
-- [XML-based standards](http://en.wikipedia.org/wiki/Category:XML-based_standards "Category:XML-based standards")
-
-----------
+* * *
 This page was forked with permission from [http://en.wikipedia.org/wiki/XDI](http://en.wikipedia.org/wiki/XDI)
-----------
+* * *
