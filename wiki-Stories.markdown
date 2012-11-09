@@ -94,6 +94,6 @@ Hidden categories:
 - [All disambiguation pages](https://en.wikipedia.org/wiki/Category:All_disambiguation_pages "Category:All disambiguation pages")
 - [Article Feedback Blacklist](https://en.wikipedia.org/wiki/Category:Article_Feedback_Blacklist "Category:Article Feedback Blacklist")
 
-----------
+* * *
 This page was forked with permission from [https://en.wikipedia.org/wiki/Stories](https://en.wikipedia.org/wiki/Stories)
-----------
+* * *
