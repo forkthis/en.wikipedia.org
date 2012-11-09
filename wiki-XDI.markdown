@@ -40,44 +40,6 @@ Public services based on the OASIS [XRI](http://www.oasis-open.org/committees/xr
 
 - [XDI reference implementation in Java](http://wiki.eclipse.org/XDI4j) (includes a number of utilities for experimenting directly with XDI, although in older serialization formats)
 
-    
-
-- [v](http://en.wikipedia.org/wiki/Template:OASIS_Standards "Template:OASIS Standards")
-- [t](http://en.wikipedia.org/w/index.php?title=Template_talk:OASIS_Standards&action=edit&redlink=1 "Template talk:OASIS Standards (page does not exist)")
-- [e](//en.wikipedia.org/w/index.php?title=Template:OASIS_Standards&action=edit)
-
-Standards of [OASIS](http://en.wikipedia.org/wiki/OASIS_(organization) "OASIS (organization)")
-    
-
-- [BCM](http://en.wikipedia.org/w/index.php?title=Business_Centric-Methodology&action=edit&redlink=1 "Business Centric-Methodology (page does not exist)")
-- [CAM](http://en.wikipedia.org/wiki/Content_Assembly_Mechanism "Content Assembly Mechanism")
-- [CAP](http://en.wikipedia.org/wiki/Common_Alerting_Protocol "Common Alerting Protocol")
-- [CIQ](http://en.wikipedia.org/w/index.php?title=Customer_Information_Quality&action=edit&redlink=1 "Customer Information Quality (page does not exist)")
-- [DSS](http://en.wikipedia.org/wiki/Digital_Signature_Services "Digital Signature Services")
-- [DocBook](http://en.wikipedia.org/wiki/DocBook "DocBook")
-- [DITA](http://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture "Darwin Information Typing Architecture")
-- [DSML](http://en.wikipedia.org/wiki/Directory_Service_Markup_Language "Directory Service Markup Language")
-- [ebXML](http://en.wikipedia.org/wiki/EbXML "EbXML")
-- [EDXL](http://en.wikipedia.org/wiki/EDXL "EDXL")
-- [EML](http://en.wikipedia.org/wiki/Election_Markup_Language "Election Markup Language")
-- [KMIP](http://en.wikipedia.org/wiki/KMIP "KMIP")
-- [OpenDocument](http://en.wikipedia.org/wiki/OpenDocument "OpenDocument")
-- [SAML](http://en.wikipedia.org/wiki/Security_Assertion_Markup_Language "Security Assertion Markup Language")
-- [SDD](http://en.wikipedia.org/wiki/Solution_Deployment_Descriptor "Solution Deployment Descriptor")
-- [SOAP-over-UDP](http://en.wikipedia.org/wiki/SOAP-over-UDP "SOAP-over-UDP")
-- [SPML](http://en.wikipedia.org/wiki/Service_Provisioning_Markup_Language "Service Provisioning Markup Language")
-- [UBL](http://en.wikipedia.org/wiki/Universal_Business_Language "Universal Business Language")
-- [UDDI](http://en.wikipedia.org/wiki/Universal_Description_Discovery_and_Integration "Universal Description Discovery and Integration")
-- [WSDM](http://en.wikipedia.org/wiki/Web_Services_Distributed_Management "Web Services Distributed Management")
-- [XRI](http://en.wikipedia.org/wiki/Extensible_Resource_Identifier "Extensible Resource Identifier")
-- **XDI**
-- [WS-BPEL](http://en.wikipedia.org/wiki/Business_Process_Execution_Language "Business Process Execution Language")
-- [WSRF](http://en.wikipedia.org/wiki/Web_Services_Resource_Framework "Web Services Resource Framework")
-- [WSS](http://en.wikipedia.org/wiki/WS-Security "WS-Security")
-- [XACML](http://en.wikipedia.org/wiki/XACML "XACML")
-
-Retrieved from " [http://en.wikipedia.org/w/index.php?title=XDI&oldid=521502274](http://en.wikipedia.org/w/index.php?title=XDI&oldid=521502274) "
-
 * * *
 This page was forked with permission from [http://en.wikipedia.org/wiki/XDI](http://en.wikipedia.org/wiki/XDI)
 * * *
