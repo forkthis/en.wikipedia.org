@@ -10,14 +10,14 @@
 - Story, or [storey](http://en.wikipedia.org/wiki/Storey "Storey") , a floor or level of a building
 - Stories, colloquial, US American expression for [soap operas](http://en.wikipedia.org/wiki/Soap_opera "Soap opera")
 
-## [ [edit](http://en.wikipedia.org/w/index.php?title=Story&action=edit&section=1 "Edit section: Media") ] Media
+## Media
 
 - [_Story_ (magazine)](http://en.wikipedia.org/wiki/Story_(magazine) "Story (magazine)") , an American literary magazine published 1931–1961 and 1989–2000
 - _ [The Story with Dick Gordon](http://en.wikipedia.org/wiki/The_Story_with_Dick_Gordon "The Story with Dick Gordon") _, a radio interview program that debuted in 2006
 - Story, one of the main characters in the 2006 film _ [Lady in the Water](http://en.wikipedia.org/wiki/Lady_in_the_Water "Lady in the Water") _
 - _Story: Substance, Structure, Style and the Principles of Screenwriting_, a screenwriting guide by [Robert McKee](http://en.wikipedia.org/wiki/Robert_McKee "Robert McKee") .
 
-## [ [edit](http://en.wikipedia.org/w/index.php?title=Story&action=edit&section=2 "Edit section: Music") ] Music
+## Music
 Artists
 - [The Story (UK band)](http://en.wikipedia.org/wiki/The_Story_(UK_band) "The Story (UK band)") , an English psych-folk band 2002–present
 - [Stories (band)](http://en.wikipedia.org/wiki/Stories_(band) "Stories (band)") , an early 1970s American rock group
@@ -47,12 +47,12 @@ Songs
 - "Story", B-side of the " [Makes Me Wonder](http://en.wikipedia.org/wiki/Makes_Me_Wonder "Makes Me Wonder") " single by Maroon 5
 - "Stories", song by Trapt from their 2002 album _ [Trapt](http://en.wikipedia.org/wiki/Trapt_(album) "Trapt (album)") _
 
-## [ [edit](http://en.wikipedia.org/w/index.php?title=Story&action=edit&section=3 "Edit section: People with given name Story") ] People with given name Story
+## People with given name Story
 
 - [Story Musgrave](http://en.wikipedia.org/wiki/Story_Musgrave "Story Musgrave") (born 1935), American doctor and astronaut
 - [Story Tweedie-Yates](http://en.wikipedia.org/wiki/Story_Tweedie-Yates "Story Tweedie-Yates") (born 1983), professional American tennis player
 
-## [ [edit](http://en.wikipedia.org/w/index.php?title=Story&action=edit&section=4 "Edit section: Places") ] Places
+## Places
 
 - [Story, Indiana](http://en.wikipedia.org/wiki/Story,_Indiana "Story, Indiana") , United States
 - [Story, Wyoming](http://en.wikipedia.org/wiki/Story,_Wyoming "Story, Wyoming") , United States
@@ -61,11 +61,9 @@ Songs
 - Fort Story, former name of [Joint Expeditionary Base East](http://en.wikipedia.org/wiki/Joint_Expeditionary_Base_East "Joint Expeditionary Base East") , a sub-installation of the United States Navy and Little Creek Amphibious Base
 - [Story, Arkansas](http://en.wikipedia.org/wiki/Story,_Arkansas "Story, Arkansas") , United States
 
-## [ [edit](http://en.wikipedia.org/w/index.php?title=Story&action=edit&section=5 "Edit section: See also") ] See also
+## See also
 
 - [Storey (disambiguation)](http://en.wikipedia.org/wiki/Storey_(disambiguation) "Storey (disambiguation)")
-
-Retrieved from " [http://en.wikipedia.org/w/index.php?title=Story&oldid=520925994](http://en.wikipedia.org/w/index.php?title=Story&oldid=520925994) "
 
 * * *
 This page was forked with permission from [http://en.wikipedia.org/wiki/Stories](http://en.wikipedia.org/wiki/Stories)
