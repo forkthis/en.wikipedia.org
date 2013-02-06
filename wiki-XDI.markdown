@@ -2,7 +2,7 @@
 
 # XDI
 
-**XDI** (XRI Data Interchange) is a generalized, extensible service for sharing, linking, and synchronizing structured data over the Internet and other data networks using XRI-addressable [RDF](http://en.wikipedia.org/wiki/Resource_Description_Framework "Resource Description Framework") graphs. XDI is under development by the [OASIS](http://en.wikipedia.org/wiki/OASIS_(organization) "OASIS (organization)") [XDI Technical Committee](http://www.oasis-open.org/committees/xdi).
+**XDI** (XRI Data Interchange) is a semantic data interchange format and protocol under development by the [OASIS](http://en.wikipedia.org/wiki/OASIS_(organization) "OASIS (organization)") [XDI Technical Committee](http://www.oasis-open.org/committees/xdi). The name comes from the addressable graph model XDI uses: every node in the XDI graph is its own [RDF](http://en.wikipedia.org/wiki/Resource_Description_Framework "Resource Description Framework") that is uniquely addressable with an [XRI (Extensible Resource Identifier)](http://en.wikipedia.org/wiki/XRI "XRI").
 
 The main features of XDI are: the ability to link and nest RDF graphs to provide context; full addressability of all nodes in the graph at any level of context; representation of XDI operations as graph statements so authorization can be built into the graph (a feature called XDI link contracts); standard serialization formats including JSON and XML; and a simple ontology language for defining shared semantics using XDI dictionary services.
 
